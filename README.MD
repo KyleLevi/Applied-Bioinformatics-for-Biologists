@@ -21,5 +21,7 @@ Module | Title | Skill | Time
 Total | | | 12-19 Weeks
 
 
-## I'm very busy; sum the course into one picture for me.
+## What commands do you use to search the SRA?
 ![genome_vs_metagenome_commands.png](genome_vs_metagenome_commands.png)
+
+
