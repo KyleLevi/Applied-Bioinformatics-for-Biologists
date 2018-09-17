@@ -13,7 +13,7 @@ Module | Title | Skill | Time
 ------ | ----- | ----- | ---- 
 1 | Intro to Bash | Basic Unix, Don't fear the terminal! | 1 Week
 2 | SSH and Keys | Logging into remote computers (Jetstream/AWS) securely | 1-2 Weeks
-3 | Downloading SRA Metagenomes & Read Mapping | Downloading public NCBI datasets and searching them for matching DNA using Bowtie2 | 2 Weeks
+3 | Downloading SRA Metagenomes & Read Mapping | Downloading and searching a single SRA dataset for matching DNA using Bowtie2 | 2 Weeks
 4 | Bash Variables and Loops | Using a small loop to automate big tasks | 1-2 Weeks
 5 | Mini Project | Project proposal and rejection, practice with modules 1-4, and scientific writing | 3-5 Weeks
 6 | Final Project | Critical thinking, planning, creativity, guided research. Covers modules 1-5 | 4-6 Weeks
