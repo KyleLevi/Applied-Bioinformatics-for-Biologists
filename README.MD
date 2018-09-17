@@ -1,5 +1,5 @@
 # Applied Bioinformatics for Biologists  
-The goal of this course material is to give biologists in the experience and skills necessary to survive a post-Next-Generation-Sequencing workplace.  
+The goal of this course material is to give biologists the experience and skills necessary to survive in a post-Next-Generation-Sequencing workplace.  
   
 When biologists learn organic chemistry, they often do simple experiments like synthesizing aspirin from salicylic acid which has become a common exercise in organic chemistry labs. These materials aim to serve as a similar curriculum, introducing biologists to the skills and concepts critical to understanding and performing bioinformatic tasks.  
   
