@@ -1,7 +1,7 @@
 # Applied Bioinformatics for Biologists  
 The goal of this course material is to give biologists the experience and skills necessary to survive in a post-Next-Generation-Sequencing workplace.  
   
-When biologists learn organic chemistry, they often do simple experiments like synthesizing aspirin from salicylic acid which has become a common exercise in organic chemistry labs. These materials aim to serve as a similar curriculum, introducing biologists to the skills and concepts critical to understanding and performing bioinformatic tasks.  
+When biologists learn organic chemistry, they often do simple experiments like synthesizing aspirin, which has become a common exercise in organic chemistry labs. These materials aim to serve as a similar curriculum, introducing biologists to the skills critical to performing basic bioinformatics tasks through project based learning. Students will spend the majoriy of this course working on a novel bioinformatic project which they propose and complete throughout the semester. Ideally the class will meet twice or three times weekly with lectures and powerpoint comprising no more than 30 minutes of each class meeting.  
   
 ## Prerequisites  
 Students should have completed some undergraduate course work in biology, specifically genetics, microbiology, and ecology. Additionally, students from computer science backgrounds should be familiar with SSH, BASH, and basic Unix commands if they hope to compensate for a lack of biological training. **However, no background in bioinformatics or computer science is required for this material.**  
