@@ -18,7 +18,7 @@ Module | Title | Skill | Time
 5 | Mini Project | Project proposal and rejection, practice with modules 1-4, and scientific writing | 3-5 Weeks
 6 | Final Project | Critical thinking, planning, creativity, guided research. Covers modules 1-5 | 4-6 Weeks
 7 | Video Presentations | (optional) From the Microbial Metagenomics Discovery Challenge 2017 | 1 Week
-Total | | | | 12-19 Weeks
+Total | | | 12-19 Weeks
 
 
 ## I'm very busy; sum the course into one picture for me.
