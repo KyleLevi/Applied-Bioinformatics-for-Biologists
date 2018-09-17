@@ -7,7 +7,7 @@ When biologists learn organic chemistry, they often do simple experiments like s
 Students should have completed some undergraduate course work in biology, specifically genetics, microbiology, and ecology. Additionally, students from computer science backgrounds should be familiar with SSH, BASH, and basic Unix commands if they hope to compensate for a lack of biological training. **However, no background in bioinformatics or computer science is required for this material.**  
   
 ## Modules  
-While the modules do follow a specific order, every one of them can be used independently to train students on specific skills.  
+While the modules below follow a specific order, each one can be taught independently to train students on specific skills.  
   
 Module | Title | Skill | Time 
 ------ | ----- | ----- | ---- 
