@@ -9,9 +9,9 @@ Students should have completed some undergraduate course work in biology, specif
 ## Modules  
 While the modules do follow a specific order, every one of them can be used independently to train students on specific skills.  
   
-Module | Title | Skill | Details
+Module | Title | Skill | Link
 ------ | ----- | ----- | ------ |
-1 | Intro to Bash | Basic Unix, Don't fear the terminal!
+1 | Intro to Bash | Basic Unix, Don't fear the terminal! | [link]("1 Intro to BASH")
 2 | SSH and Keys | Logging into remote computers (Jetstream/AWS) securely
 3 | Downloading SRA Metagenomes & Read Mapping | Downloading public NCBI datasets and searching them for matching DNA using Bowtie2
 4 | Bash Variables and Loops | Using a small loop to automate big tasks | 
